@@ -1,9 +1,6 @@
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# COMPILED : JS-Encryptor
-# COMPILED-TIME :- Thu May 23 22:32:14 2024
-# GITHUB :- https://github.com/ShTasrif
-# TELEGRAM :- https://t.me/cybershbd
-# FACEBOOK :- https://facebook.com/cybershbd
+# Hey Kid's Don't Confuse me !!
+#Mr.Cyb3rgh0$t
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 import marshal
