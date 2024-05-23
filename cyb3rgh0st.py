@@ -1,5 +1,5 @@
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# COMPILED : Mr-Encryptor
+# Hey kids don't confuse me !!
 # COMPILED-TIME :- Mon Aug  7 15:49:16 2023
 # GITHUB :- https://github.com/Mr-Cyb3rgh0st
 # TELEGRAM :- https://t.me/MrCyb3rgh0st
