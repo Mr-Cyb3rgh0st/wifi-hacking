@@ -28,12 +28,10 @@
 **Getting OneShot**
  ```
  cd ~
- wget https://raw.githubusercontent.com/Mr-Cyb3rgh0st/wifi-hacking/main/cyb3rgh0st.py
+ git clone  https://raw.githubusercontent.com/Mr-Cyb3rgh0st/wifi-hacking
  ```
-Optional: getting a list of vulnerable to pixie dust devices for highlighting in scan results:
- ```
- wget https://raw.githubusercontent.com/Mr-Cyb3rgh0st/wifi-hacking/main/vulnwsc.txt
- ```
+
+
 ## Arch Linux
 **Installing requirements**
  ```
@@ -41,21 +39,17 @@ Optional: getting a list of vulnerable to pixie dust devices for highlighting in
  ```
 **Getting OneShot**
  ```
- wget https://raw.githubusercontent.com/Mr-Cyb3rgh0st/wifi-hacking/main/cyb3rgh0st.py
+ git clone  https://raw.githubusercontent.com/Mr-Cyb3rgh0st/wifi-hacking
  ```
-Optional: getting a list of vulnerable to pixie dust devices for highlighting in scan results:
- ```
- wget https://raw.githubusercontent.com/Mr-Cyb3rgh0st/wifi-hacking/main/vulnwsc.txt
- ```
+
+
 
  **Getting OneShot**
  ```
- sudo wget https://raw.githubusercontent.com/Mr-Cyb3rgh0st/wifi-hacking/main/cyb3rgh0st.py
+  git clone  https://raw.githubusercontent.com/Mr-Cyb3rgh0st/wifi-hacking
  ```
-Optional: getting a list of vulnerable to pixie dust devices for highlighting in scan results:
- ```
- sudo wget https://raw.githubusercontent.com/Mr-Cyb3rgh0st/wifi-hacking/main/vulnwsc.txt
- ```
+
+
 ## [Termux](https://termux.com/)
 Please note that root access is required.  
 
@@ -80,9 +74,8 @@ Please note that root access is required.
  Just run:
 ```sudo rfkill unblock wifi```
 #### "Device or resource busy (-16)"
- Try disabling Wi-Fi in the system settings and kill the Network manager. Alternatively, you can try running OneShot with ```--iface-down``` argument.
-#### The wlan0 interface disappears when Wi-Fi is disabled on Android devices with MediaTek SoC
- Try running OneShot with the `--mtk-wifi` flag to initialize Wi-Fi device driver.
+ Try disabling Wi-Fi in the system settings and kill the Network manager.
+ 
 # Acknowledgements
 
 
